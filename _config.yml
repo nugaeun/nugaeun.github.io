@@ -19,7 +19,7 @@ locale                   : "ko-KR"
 title                    : "nugaeun blog"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "nugaeun"
+name                     : "nugaeun@PKNU"
 description              : "과학컴퓨팅 수업 블로그"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
