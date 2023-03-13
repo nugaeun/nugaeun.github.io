@@ -38,6 +38,8 @@ comments: true
 ## 이미지 
 
 > 이미지
+![피카츄]({{site.url}}/images/찌릿찌릿피카츄.png)
+![피카츄]({{site.url}}/images/찌릿찌릿피카츄.gif)
 ![Brain]({{site.url}}/images/2021-03-01-image1.png)
 ![Cell]({{site.url}}/images/2021-03-01-image2.png)
 
